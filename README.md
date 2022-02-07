@@ -17,6 +17,10 @@ Warwick R User Group website, created using [`Distill`](https://pkgs.rstudio.com
 2. Run `renv::snapshot()` to update `renv.lock`.
 3. Create a commit with `renv.lock` changes and push it to the repo.
 
+## Rendering and deploying the website
+
+1. run `rmarkdown::render_site()` to render a local copy of the website.
+2. website deployment will depend on what we decide in [this issue](https://github.com/WarwickRUG/wrug_website/issues/2)
 
 ## Troubleshooting
 

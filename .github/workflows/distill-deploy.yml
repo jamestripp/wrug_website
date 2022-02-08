@@ -10,7 +10,7 @@ on:
 name: distill deploy
 
 jobs:
-  distill deploy:
+  distill_deploy:
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}

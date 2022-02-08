@@ -10,7 +10,7 @@ on:
 name: distill deploy
 
 jobs:
-  bookdown:
+  distill deploy:
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -25,12 +25,12 @@ jobs:
 
       - uses: r-lib/actions/setup-renv@v2
 
-      - name: Cache bookdown results
-        uses: actions/cache@v2
-        with:
-          path: _bookdown_files
-          key: bookdown-${{ hashFiles('**/*Rmd') }}
-          restore-keys: bookdown-
+      # - name: Cache bookdown results
+      #   uses: actions/cache@v2
+      #   with:
+      #     path: _bookdown_files
+      #     key: bookdown-${{ hashFiles('**/*Rmd') }}
+      #     restore-keys: bookdown-
 
       - name: Build site
         run: Rscript -e 'rmarkdown::render_site()'
@@ -40,4 +40,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gh-pages
-          # folder: _book
+          folder: . # Pushing to root folder.

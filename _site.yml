@@ -1,12 +1,21 @@
-name: "wrug_website_2"
+name: "wrug_website"
 title: "Warwick R User Group"
 description: |
   Warwick R User Group
 output_dir: "docs"
+theme: wrug.css
 navbar:
+  logo:
+    image: media/logo_small_white.png
+    href: /
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+  - text: "Home"
+    href: index.html
+  - text: "About"
+    href: about.html
+  - text: "Blog"
+    href: blog.html
 output: distill::distill_article
+collections:
+  posts: 
+    categories: true

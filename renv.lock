@@ -313,6 +313,17 @@
       "Hash": "03b7076c234cb3331288919983326c55",
       "Requirements": []
     },
+    "postcards": {
+      "Package": "postcards",
+      "Version": "0.2.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "00c3de78e2558cfd306cab0d3ba87bee",
+      "Requirements": [
+        "rmarkdown",
+        "rstudioapi"
+      ]
+    },
     "renv": {
       "Package": "renv",
       "Version": "0.15.2",

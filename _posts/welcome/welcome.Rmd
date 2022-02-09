@@ -4,11 +4,12 @@ description: |
   Welcome to our new blog, Warwick R User Group. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: "Carlos Cámara" 
+    url: https://carloscamara.es/en
+    affiliation: University of Warwick
+    affiliation_url: https://warwick.ac.uk
 date: 02-07-2022
+preview: media/logo_small.png
 output:
   distill::distill_article:
     self_contained: false
@@ -23,4 +24,4 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-
+This is some text here!

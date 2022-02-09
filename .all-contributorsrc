@@ -23,6 +23,19 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "Selbosh",
+      "name": "David Selby",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7850509?v=4",
+      "profile": "https://selbydavid.com",
+      "contributions": [
+        "code",
+        "blog",
+        "content",
+        "talk",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,

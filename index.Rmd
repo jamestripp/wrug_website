@@ -4,14 +4,12 @@ site: distill::distill_website
 listing: posts
 image: "media/logo_small.png"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/WarwickRUG"
   - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
+    url: "https://github.com/WarwickRUG"
+  - label: Meetup
+    url: "https://www.meetup.com/WarwickRUG/events/"
 output:
   postcards::trestles
 ---

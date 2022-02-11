@@ -1,0 +1,24 @@
+---
+title: "Animated plots"
+description: |
+  `Animation` is an R package to create and export animations to a variety of formats (HTML/JS, GIF, Video, PDF), and it also serves as a gallery of statistical animations.
+author: 
+  - name: "Rachel Lynne Wilkerson"
+    url: https://warwick.ac.uk/fac/sci/statistics/staff/research_students/wilkerson
+date: 2017-02-02
+categories:
+  - talks
+  - dataviz
+preview: https://assets.yihui.org/figures/animation/example/grad-desc/demo-a.gif
+output:
+  distill::distill_article:
+    self_contained: true
+---
+
+## Resources:
+
+-   [Talk slides](http://rpubs.com/rachwhatsit/animated-plots)
+
+-   [**animation** package on CRAN](https://cran.r-project.org/web/packages/animation/index.html)
+
+-   [animation package on github](https://github.com/yihui/animation)

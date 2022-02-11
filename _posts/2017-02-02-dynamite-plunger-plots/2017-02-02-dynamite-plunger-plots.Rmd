@@ -1,0 +1,20 @@
+---
+title: "Pitfalls of 'dynamite' plunger plots"
+author: 
+  - name: "Kenneth Lim"
+    url: http://www2.warwick.ac.uk/fac/sci/statistics/staff/research_students/lim
+date: 2017-02-02
+categories:
+  - talks
+  - dataviz
+preview: https://i.dailymail.co.uk/i/pix/2010/11/08/article-1327845-0BF704CC000005DC-414_468x286.jpg
+output:
+  distill::distill_article:
+    self_contained: true
+---
+
+## Resources:
+
+-   [Talk slides](https://warwick.ac.uk/fac/sci/wdsi/events/wrug/resources/plunger.pdf) ![(PDF Document)](https://www2.warwick.ac.uk/brands/icons/acrobat.gif)
+
+-   Relevant paper: [Error Bars Considered Harmful](https://graphics.cs.wisc.edu/Papers/2014/CG14/Preprint.pdf) ![(PDF Document)](https://www2.warwick.ac.uk/brands/icons/acrobat.gif)

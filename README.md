@@ -66,7 +66,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://carloscamara.es/en"><img src="https://avatars.githubusercontent.com/u/706549?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos Cámara</b></sub></a><br /><a href="https://github.com/WarwickRUG/wrug_website/commits?author=ccamara" title="Code">💻</a> <a href="#projectManagement-ccamara" title="Project Management">📆</a></td>
     <td align="center"><a href="https://www.heatherturner.net/"><img src="https://avatars.githubusercontent.com/u/3343008?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Heather Turner</b></sub></a><br /><a href="#question-hturner" title="Answering Questions">💬</a></td>
-    <td align="center"><a href="https://selbydavid.com"><img src="https://avatars.githubusercontent.com/u/7850509?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Selby</b></sub></a><br /><a href="#question-Selbosh" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://selbydavid.com"><img src="https://avatars.githubusercontent.com/u/7850509?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Selby</b></sub></a><br /><a href="#question-Selbosh" title="Answering Questions">💬</a> <a href="#content-Selbosh" title="Content">🖋</a></td>
   </tr>
 </table>
 

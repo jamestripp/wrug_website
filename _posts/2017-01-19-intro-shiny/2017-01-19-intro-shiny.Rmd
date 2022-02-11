@@ -1,0 +1,29 @@
+---
+title: "An introduction to Shiny"
+description: |
+  A beginner's guide to Shiny
+author: 
+  - name: "Nathan Cunningham"
+    url: http://www.nathancunn.com/
+date: 2017-01-19
+categories:
+  - talks
+  - shiny
+preview: https://www.rstudio.com/assets/img/og/shiny-og-fb.jpg
+output:
+  distill::distill_article:
+    self_contained: true
+---
+
+## Resources:
+
+-   [Talk slides](resources/intro_to_shiny.pdf)
+
+```{=html}
+<!-- -->
+```
+-   [example Shiny app](https://warwick.ac.uk/fac/sci/wdsi/events/wrug/resources/example_app.R) ![R script document icon](https://warwick.ac.uk/fac/sci/wdsi/events/wrug/resources/ricon.png)
+
+-   [Shiny official web site](http://shiny.rstudio.com/)
+
+-   [shinyapps.io](https://www.shinyapps.io/) --- share your Shiny applications online

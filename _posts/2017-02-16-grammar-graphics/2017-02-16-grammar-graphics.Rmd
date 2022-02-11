@@ -1,0 +1,22 @@
+---
+title: "The Grammar of Graphics: an introduction to ggplot2"
+author: 
+  - name: "David Selby"
+    url: https://selbydavid.com/
+date: 2017-02-16
+categories:
+  - talks
+  - dataviz
+preview: figure.png
+output:
+  distill::distill_article:
+    self_contained: true
+---
+
+## Resources:
+
+-   [Talk slides](http://selbydavid.com/vignettes/ggplot2.html)
+
+-   [**ggplot2** package documentation](http://docs.ggplot2.org/)
+
+-   [**ggChernoff** package on GitHub](https://github.com/Selbosh/ggChernoff)

@@ -1,0 +1,22 @@
+---
+title: "Procrastinating in R: emoji plots"
+description: |
+  Use `emojifont` and `emoGG` in your plots.
+author: 
+  - name: "Alejandra Avalos-Pacheco"
+    url: https://sites.google.com/view/aleavalos
+date: 2017-01-19
+categories:
+  - talks
+  - dataviz
+preview: resources/emoji_plots.png
+output:
+  distill::distill_article:
+    self_contained: true
+---
+
+## Resources:
+
+-   [Talk slides](resources/emoji_plots.pdf)
+-   [emojifont package on CRAN](https://cran.r-project.org/web/packages/emojifont/index.html)
+-   [**emoGG** package on GitHub](https://github.com/dill/emoGG)

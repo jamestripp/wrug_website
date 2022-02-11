@@ -4,14 +4,12 @@ site: distill::distill_website
 listing: posts
 image: "media/logo_small.png"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/WarwickRUG"
   - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
+    url: "https://github.com/WarwickRUG"
+  - label: Meetup
+    url: "https://www.meetup.com/WarwickRUG/events/"
 output:
   postcards::trestles
 ---
@@ -22,4 +20,8 @@ Warwick R User Group meets every 2–4 weeks to discuss R-related topics. At eac
 
 Everyone is welcome, from across or outside the university and regardless of R programming experience. For further information, visit our Meetup.com page or e-mail Heather Graham or James Tripp.
 
+---
 
+
+Warwick R User Group is supported by the [R Consortium](https://www.r-consortium.org/).
+We follow the R Consortium and [R Community code of conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).

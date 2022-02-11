@@ -23,7 +23,107 @@
     ],
     "contents": "\nAfter some time without much activity, we’re back with plenty of ideas!\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-02-10T18:37:36+00:00",
+    "last_modified": "2022-02-11T19:47:12+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2017-02-16-grammar-graphics/",
+    "title": "The Grammar of Graphics: an introduction to ggplot2",
+    "description": {},
+    "author": [
+      {
+        "name": "David Selby",
+        "url": "https://selbydavid.com/"
+      }
+    ],
+    "date": "2017-02-16",
+    "categories": [
+      "talks",
+      "dataviz"
+    ],
+    "contents": "\nResources:\nTalk slides\nggplot2 package documentation\nggChernoff package on GitHub\n\n\n\n",
+    "preview": "posts/2017-02-16-grammar-graphics/figure.png",
+    "last_modified": "2022-02-11T19:47:12+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2017-02-02-animated-plots/",
+    "title": "Animated plots",
+    "description": "`Animation` is an R package to create and export animations to a variety of formats (HTML/JS, GIF, Video, PDF), and it also serves as a gallery of statistical animations.",
+    "author": [
+      {
+        "name": "Rachel Lynne Wilkerson",
+        "url": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/wilkerson"
+      }
+    ],
+    "date": "2017-02-02",
+    "categories": [
+      "talks",
+      "dataviz"
+    ],
+    "contents": "\nResources:\nTalk slides\nanimation package on CRAN\nanimation package on github\n\n\n\n",
+    "preview": "https://assets.yihui.org/figures/animation/example/grad-desc/demo-a.gif",
+    "last_modified": "2022-02-11T19:47:12+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2017-02-02-dynamite-plunger-plots/",
+    "title": "Pitfalls of 'dynamite' plunger plots",
+    "description": {},
+    "author": [
+      {
+        "name": "Kenneth Lim",
+        "url": "http://www2.warwick.ac.uk/fac/sci/statistics/staff/research_students/lim"
+      }
+    ],
+    "date": "2017-02-02",
+    "categories": [
+      "talks",
+      "dataviz"
+    ],
+    "contents": "\nResources:\nTalk slides \nRelevant paper: Error Bars Considered Harmful \n\n\n\n",
+    "preview": "https://i.dailymail.co.uk/i/pix/2010/11/08/article-1327845-0BF704CC000005DC-414_468x286.jpg",
+    "last_modified": "2022-02-11T19:47:12+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2017-01-19-emojiplots/",
+    "title": "Procrastinating in R: emoji plots",
+    "description": "Use `emojifont` and `emoGG` in your plots.",
+    "author": [
+      {
+        "name": "Alejandra Avalos-Pacheco",
+        "url": "https://sites.google.com/view/aleavalos"
+      }
+    ],
+    "date": "2017-01-19",
+    "categories": [
+      "talks",
+      "dataviz"
+    ],
+    "contents": "\nResources:\nTalk slides\nemojifont package on CRAN\nemoGG package on GitHub\n\n\n\n",
+    "preview": "posts/2017-01-19-emojiplots/resources/emoji_plots.png",
+    "last_modified": "2022-02-11T19:47:12+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2017-01-19-intro-shiny/",
+    "title": "An introduction to Shiny",
+    "description": "A beginner's guide to Shiny",
+    "author": [
+      {
+        "name": "Nathan Cunningham",
+        "url": "http://www.nathancunn.com/"
+      }
+    ],
+    "date": "2017-01-19",
+    "categories": [
+      "talks",
+      "shiny"
+    ],
+    "contents": "\nResources:\nTalk slides\nexample Shiny app \nShiny official web site\nshinyapps.io — share your Shiny applications online\n\n\n\n",
+    "preview": "https://www.rstudio.com/assets/img/og/shiny-og-fb.jpg",
+    "last_modified": "2022-02-11T19:47:12+00:00",
     "input_file": {}
   }
 ]

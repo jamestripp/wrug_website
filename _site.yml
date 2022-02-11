@@ -13,6 +13,8 @@ navbar:
     href: index.html
   - text: "About"
     href: about.html
+  - text: "Talks"
+    href: blog.html#category:talks
   - text: "Blog"
     href: blog.html
 output: distill::distill_article

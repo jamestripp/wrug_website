@@ -1,0 +1,22 @@
+---
+title: "Sensitivity and Robustness Analysis in Bayesian Networks with the 'bnmonitor' R package"
+author:
+  - name: "Manuele Leonelli"
+    url: https://manueleleonelli.github.io/
+date: 2022-03-09
+categories:
+  - talks
+  - dataviz
+preview: resources/bnmonitor_preview.png
+output:
+  distill::distill_article:
+    self_contained: true
+draft: false
+---
+
+## Resources:
+
+-   [Talk slides](resources/Talk.pdf)
+
+-   [**bnmonitor** package on CRAN](https://cran.r-project.org/web/packages/bnmonitor/index.html)
+

@@ -1,5 +1,45 @@
 [
   {
+    "path": "posts/2022-03-09-bnmonitorpackage/",
+    "title": "Sensitivity and Robustness Analysis in Bayesian Networks with the 'bnmonitor' R package",
+    "description": {},
+    "author": [
+      {
+        "name": "Manuele Leonelli",
+        "url": "https://manueleleonelli.github.io/"
+      }
+    ],
+    "date": "2022-03-09",
+    "categories": [
+      "talks",
+      "dataviz"
+    ],
+    "contents": "\nResources:\nTalk slides\nbnmonitor package on CRAN\n\n\n\n",
+    "preview": "posts/2022-03-09-bnmonitorpackage/resources/bnmonitor_preview.png",
+    "last_modified": "2022-05-02T20:30:15+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-03-09-nationalgrid/",
+    "title": "Long Term Gas Supply & Demand Scenarios",
+    "description": {},
+    "author": [
+      {
+        "name": "Kasia Taylor and Ben Dickel",
+        "url": {}
+      }
+    ],
+    "date": "2022-03-09",
+    "categories": [
+      "talks",
+      "dataviz"
+    ],
+    "contents": "\nResources:\nTalk slides\n\n\n\n",
+    "preview": "posts/2022-03-09-nationalgrid/resources/preview.png",
+    "last_modified": "2022-05-02T20:30:15+00:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Warwick R User Group",
     "description": "Welcome to our new blog, Warwick R User Group. We hope you enjoy \nreading what we have to say!",
@@ -23,7 +63,7 @@
     ],
     "contents": "\nAfter some time without much activity, we’re back with plenty of ideas!\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-02-11T20:00:43+00:00",
+    "last_modified": "2022-05-02T20:30:15+00:00",
     "input_file": {}
   },
   {
@@ -43,7 +83,7 @@
     ],
     "contents": "\nResources:\nTalk slides\nggplot2 package documentation\nggChernoff package on GitHub\n\n\n\n",
     "preview": "posts/2017-02-16-grammar-graphics/figure.png",
-    "last_modified": "2022-02-11T20:00:43+00:00",
+    "last_modified": "2022-05-02T20:30:15+00:00",
     "input_file": {}
   },
   {
@@ -63,7 +103,7 @@
     ],
     "contents": "\nResources:\nTalk slides\nanimation package on CRAN\nanimation package on github\n\n\n\n",
     "preview": "https://assets.yihui.org/figures/animation/example/grad-desc/demo-a.gif",
-    "last_modified": "2022-02-11T20:00:43+00:00",
+    "last_modified": "2022-05-02T20:30:15+00:00",
     "input_file": {}
   },
   {
@@ -83,7 +123,7 @@
     ],
     "contents": "\nResources:\nTalk slides \nRelevant paper: Error Bars Considered Harmful \n\n\n\n",
     "preview": "https://i.dailymail.co.uk/i/pix/2010/11/08/article-1327845-0BF704CC000005DC-414_468x286.jpg",
-    "last_modified": "2022-02-11T20:00:43+00:00",
+    "last_modified": "2022-05-02T20:30:15+00:00",
     "input_file": {}
   },
   {
@@ -103,7 +143,7 @@
     ],
     "contents": "\nResources:\nTalk slides\nemojifont package on CRAN\nemoGG package on GitHub\n\n\n\n",
     "preview": "posts/2017-01-19-emojiplots/resources/emoji_plots.png",
-    "last_modified": "2022-02-11T20:00:43+00:00",
+    "last_modified": "2022-05-02T20:30:15+00:00",
     "input_file": {}
   },
   {
@@ -123,7 +163,7 @@
     ],
     "contents": "\nResources:\nTalk slides\nexample Shiny app \nShiny official web site\nshinyapps.io — share your Shiny applications online\n\n\n\n",
     "preview": "https://www.rstudio.com/assets/img/og/shiny-og-fb.jpg",
-    "last_modified": "2022-02-11T20:00:43+00:00",
+    "last_modified": "2022-05-02T20:30:15+00:00",
     "input_file": {}
   }
 ]

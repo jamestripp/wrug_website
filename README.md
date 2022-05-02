@@ -1,6 +1,6 @@
 # Warwick R User Group Website
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Warwick R User Group website, created using [`Distill`](https://pkgs.rstudio.com/distill/index.html)
@@ -67,6 +67,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://carloscamara.es/en"><img src="https://avatars.githubusercontent.com/u/706549?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos Cámara</b></sub></a><br /><a href="https://github.com/WarwickRUG/wrug_website/commits?author=ccamara" title="Code">💻</a> <a href="#projectManagement-ccamara" title="Project Management">📆</a></td>
     <td align="center"><a href="https://www.heatherturner.net/"><img src="https://avatars.githubusercontent.com/u/3343008?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Heather Turner</b></sub></a><br /><a href="#question-hturner" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://selbydavid.com"><img src="https://avatars.githubusercontent.com/u/7850509?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Selby</b></sub></a><br /><a href="#question-Selbosh" title="Answering Questions">💬</a> <a href="#content-Selbosh" title="Content">🖋</a></td>
+    <td align="center"><a href="https://ashenvi10.github.io/"><img src="https://avatars.githubusercontent.com/u/39489147?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aditi Shenvi</b></sub></a><br /><a href="https://github.com/WarwickRUG/wrug_website/commits?author=ashenvi10" title="Code">💻</a></td>
   </tr>
 </table>
 

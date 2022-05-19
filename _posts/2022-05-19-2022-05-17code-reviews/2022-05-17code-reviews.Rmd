@@ -1,0 +1,22 @@
+---
+title: "2022-05-17-Code Reviews"
+description:
+author:
+  - name: Unknown
+date: 2022-05-17
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Resources:
+
+-   [Talk slides](resources/Code_Review.pdf)
+
+
